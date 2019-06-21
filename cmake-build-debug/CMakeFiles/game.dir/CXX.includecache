@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Controlador.cpp
+Controlador.h
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Controlador.h
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Controlador.h
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Objeto.cpp
+Objeto.h
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Objeto.h
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Objeto.h
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Tierra.cpp
+Tierra.h
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Tierra.h
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/Tierra.h
+
+/home/utec/Documentos/PFinal/PROYECTO-POO2/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+
